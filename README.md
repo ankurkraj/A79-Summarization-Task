@@ -22,10 +22,10 @@
 ## Approach and Assumptions
 
 ### Extracting Full papers and parsing it as PDF
-
-(1) Python module **metapub**'s  FindIt function was used to locate the Paper, the full text for all Papers were not found using this precisely 162/294 were downloaded.
-(2) The paper was saved as bpdf bu chunking into bytes and appending into a file.
-
+<pre>
+(1) Python module **metapub**'s  FindIt function was used to locate the Paper after obtianing the PMID from the link, the full text for all Papers were not found using this precisely 162/294 were downloaded.
+(2) The paper was saved as pdf by chunking into bytes and appending into a file.
+</pre>
 ### Summarization
 
 OpenAI's model gpt-4o-mini was used to summarize the paper. The PDF Paper was parsed using PyPDF2 module. The following prompts were provided to the model to get in a standard format, the precise format was also created using an AI model from some vague descriptions.
@@ -51,6 +51,7 @@ Multiprocessing is used to optimize the time taken to generate the files. Also c
 ## How to Run 
 
 ### Setup
+<pre>
 Beside the system provided modules you would require the following third-party libraries 
 
 metapub - To obtain the PubMED paper using PMID
@@ -65,6 +66,7 @@ ArynAI API - To be used in line 7  in extract_table.py
 
 Change the direcories where you want the Results file 'Papers' to be stored. By changing the parent direcotry at line 10 in download_papers.py and line 6 in summarize_pdf.py.
 
+</pre>
 ### Running
 
 Run the primary file download_papers.py to obtain the results in the parent_direcory.
