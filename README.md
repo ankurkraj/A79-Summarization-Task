@@ -9,9 +9,13 @@
 | -- download_papers.py - Imports functions from the other files to finally perform all the tasks. The primary file of the project (This needs to be run to get all the tasks done).  
 
 ### The Result direcotry is formatted as follows (dummy_Papers) :-
-| -- 38612630 --                                    | -- paper_38612630.pdf                              |
-/                                                   | -- table_38612630.csv                              |
-/                                                   | -- summary_38612630.txt                            |
+<pre>
+| -- 38612630 --                                    | -- paper_38612630.pdf                             
+                                                    | -- table_38612630.csv                              
+                                                    | -- summary_38612630.txt          
+| -- ..
+| -- ..
+</pre>
 
 **38612630** - Represents the **PMID number** that is associated with every **PubMED** Paper.
 
