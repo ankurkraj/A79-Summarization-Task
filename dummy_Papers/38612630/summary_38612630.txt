@@ -1,0 +1,17 @@
+**Research Question:**
+The study investigates how the immune escape processes in OSCC differ based on whether the tumor originates from keratinized or non-keratinized epithelial tissue, with a focus on key immune checkpoints PD-1/PD-L1 and CD47/SIRPα.
+
+**Methodology:**
+A retrospective analysis was conducted on 21 OSCC patients, examining the expression of seven immune-related factors (PD-L1, PD-1, CD47, CD4, CD8, CD56, and CD11c). These were correlated with clinicopathological features. Immunohistochemical staining was used to assess protein expression levels in tumor samples from keratinized (gingival) and non-keratinized (tongue, buccal mucosa) origins.
+
+**Key Findings:**
+Non-keratinized epithelium-originated tumors showed significantly higher expression levels of PD-L1, PD-1, and CD47 compared to keratinized counterparts. Tumor-specific immunoediting was more pronounced in non-keratinized sites, suggesting distinct immune evasion mechanisms. The study also observed significant correlations between double-positive PD-L1/CD47 cases and non-keratinized sites.
+
+**Implications:**
+This distinction highlights potential differences in tumor microenvironments and immune responses based on tissue origin. It suggests that targeting both PD-1/PD-L1 and CD47/SIRPα pathways might offer improved therapeutic strategies, particularly for non-keratinized site-originated OSCC.
+
+**Limitations:**
+The small sample size and lack of data on clinical responses to immune checkpoint inhibitors (ICIs) limit the generalizability. Additionally, regulatory T cells (Tregs), another key player in tumor immunity, were not assessed.
+
+**Conclusion:**
+The study underscores the need to consider the epithelial origin in OSCC when devising immunotherapeutic approaches, as keratinization status influences immune escape mechanisms.

@@ -1,0 +1,10 @@
+,No.,Gender,Age,Primary Site,T,N,Stage,PD-L1,PD-1,CD4,CD8,CD47,CD56,CD11c
+0,13,M,41,Tongue,2,0,2,+,++,ND,++,+++,ND,ND
+1,14,F,46,Maxillary gingiva,4a,2b,4a,++,ND,+++,++,+,+,+
+2,15,M,73,Mandibular gingiva,4a,1,4a,++,ND,++,++,++,ND,ND
+3,16,F,56,Tongue,2,1,3,+,++,++,+++,+++,+,ND
+4,17,M,72,Buccal mucosa,4a,2b,4a,+,++,ND,+,+++,ND,ND
+5,18,M,66,Mandibular gingiva,4a,2c,4a,+,ND,+,+,++,ND,ND
+6,19,F,78,Mandibular gingiva,4a,0,4a,ND,ND,+++,+++,++,ND,ND
+7,20,F,90,Mandibular gingiva,4a,,4a,+,ND,+,+,++,ND,ND
+8,21,M,75,Mandibular gingiva,1,0,1,ND,+,+++,ND,++,ND,ND
