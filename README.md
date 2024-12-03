@@ -10,9 +10,9 @@
 
 ### The Result direcotry is formatted as follows (dummy_Papers) :-
 <pre>
-| -- 38612630 --                                    | -- paper_38612630.pdf                             
-                                                    | -- table_38612630.csv                              
-                                                    | -- summary_38612630.txt          
+| -- 38612630 -- | -- paper_38612630.pdf                             
+                 | -- table_38612630.csv                              
+                 | -- summary_38612630.txt          
 | -- ..
 | -- ..
 </pre>
