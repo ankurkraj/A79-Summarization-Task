@@ -3,17 +3,17 @@
 ## Project Structure and Source ode Files
 
 ### The repository is formatted as :-
-| -- dummpy_Papers - Consists the results of 5 sample files.
-| -- summarize_pdf.py - Implements functions to perform the summarization task given the contents of a PDF file.
-| -- extract_table.py - Implements functions to extract table from a given PDF file.
-| -- download_papers.py - Imports functions from the other files to finally perform all the tasks. The primary file of the project (This needs to be run to get all the tasks done).
+| -- dummpy_Papers - Consists the results of 5 sample files.  
+| -- summarize_pdf.py - Implements functions to perform the summarization task given the contents of a PDF file.  
+| -- extract_table.py - Implements functions to extract table from a given PDF file.  
+| -- download_papers.py - Imports functions from the other files to finally perform all the tasks. The primary file of the project (This needs to be run to get all the tasks done).  
 
 ### The Result direcotry is formatted as follows (dummy_Papers) :-
-| -- 38612630 -- | -- paper_38612630.pdf
-                 | -- summary_38612630.txt
-                 | -- table_38612630.csv
-| -- ..
-| -- ..
+| -- 38612630 -- | -- paper_38612630.pdf  
+                 | -- summary_38612630.txt  
+                 | -- table_38612630.csv  
+| -- ..  
+| -- ..  
 
 **38612630** - Represents the **PMID number** that is associated with every **PubMED** Paper.
 
@@ -27,8 +27,8 @@
 ### Summarization
 
 OpenAI's model gpt-4o-mini was used to summarize the paper. The PDF Paper was parsed using PyPDF2 module. The following prompts were provided to the model to get in a standard format, the precise format was also created using an AI model from some vague descriptions.
-
-Please provide a concise summary of the following research paper. The summary should be around 250 words and should include the following key points:
+        
+        Please provide a concise summary of the following research paper. The summary should be around 250 words and should include the following key points:
 
         Research Question: What is the main question or problem the paper aims to address?
         Methodology: How did the authors conduct the research?
